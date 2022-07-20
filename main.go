@@ -6,9 +6,6 @@ func main() {
 	//strs := []string{"flower", "flow", "flight"}
 	strs := []string{"парам", "пам", "папа"}
 	prefix := ""
-	for _, character := range strs[0] {
-		fmt.Println(character)
-	}
 
 	counter := 0
 outer:
