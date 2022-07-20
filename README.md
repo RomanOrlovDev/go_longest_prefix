@@ -1,1 +1,1 @@
-Longest Common Prefix
+Longest Common Prefix with GoLang (Go)
